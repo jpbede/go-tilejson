@@ -1,6 +1,6 @@
 // TileJSON
 // https://github.com/mapbox/tilejson-spec
-package go_tilejson
+package tilejson
 
 const Version = "2.1.0"
 
