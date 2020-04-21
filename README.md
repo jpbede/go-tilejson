@@ -1,4 +1,4 @@
-# go-tilejson
+# go-tilejson  [![Build Status](https://travis-ci.org/jpbede/go-tilejson.svg?branch=master)](https://travis-ci.org/jpbede/go-tilejson)
 
 
 ## Attribution
